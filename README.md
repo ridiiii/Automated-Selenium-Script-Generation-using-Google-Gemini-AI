@@ -32,23 +32,23 @@ Saving the Generated Scripts:
 
 Challenges Faced
 
-Access to Gemini API:
+-Access to Gemini API:
 
-Direct API access may be restricted.
+-Direct API access may be restricted.
 
-As a workaround, I manually tested prompts using Google's web-based GenAI tool.
+-As a workaround, I manually tested prompts using Google's web-based GenAI tool.
 
 Ensuring Structured Output:
 
-AI-generated code can be inconsistent.
+-AI-generated code can be inconsistent.
 
-To address this, I refined the prompt to enforce strict formatting and require working Selenium code.
+-To address this, I refined the prompt to enforce strict formatting and require working Selenium code.
 
 Handling API Failures:
 
-The script includes exception handling to prevent crashes.
+-The script includes exception handling to prevent crashes.
 
-If an API request fails, the script logs the error and continues processing the remaining test cases.
+-If an API request fails, the script logs the error and continues processing the remaining test cases.
 
 
 
@@ -58,10 +58,10 @@ How to Run the Script
 
 Prerequisites
 
-Python 3.8+
+-Python 3.8+
 
-Required Python libraries: pandas, google-generativeai, openpyxl
+-Required Python libraries: pandas, google-generativeai, openpyxl
 
-Selenium WebDriver (e.g., ChromeDriver, GeckoDriver)
+-Selenium WebDriver (e.g., ChromeDriver, GeckoDriver)
 
-Gemini API Key (set as an environment variable: GEMINI_API_KEY)
+-Gemini API Key (set as an environment variable: GEMINI_API_KEY)
