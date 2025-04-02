@@ -1,0 +1,237 @@
+{
+    "buttons": [
+        {
+            "text": "\u00d7",
+            "id": null,
+            "class": [
+                "close"
+            ]
+        },
+        {
+            "text": "Close",
+            "id": null,
+            "class": [
+                "btn",
+                "btn-secondary"
+            ]
+        },
+        {
+            "text": "Send message",
+            "id": null,
+            "class": [
+                "btn",
+                "btn-primary"
+            ]
+        },
+        {
+            "text": "\u00d7",
+            "id": null,
+            "class": [
+                "close"
+            ]
+        },
+        {
+            "text": "Close",
+            "id": null,
+            "class": [
+                "btn",
+                "btn-secondary"
+            ]
+        },
+        {
+            "text": "Sign up",
+            "id": null,
+            "class": [
+                "btn",
+                "btn-primary"
+            ]
+        },
+        {
+            "text": "\u00d7",
+            "id": null,
+            "class": [
+                "close"
+            ]
+        },
+        {
+            "text": "Close",
+            "id": null,
+            "class": [
+                "btn",
+                "btn-secondary"
+            ]
+        },
+        {
+            "text": "Log in",
+            "id": null,
+            "class": [
+                "btn",
+                "btn-primary"
+            ]
+        },
+        {
+            "text": "\u00d7",
+            "id": null,
+            "class": [
+                "close"
+            ]
+        },
+        {
+            "text": "Close",
+            "id": null,
+            "class": [
+                "btn",
+                "btn-secondary"
+            ]
+        },
+        {
+            "text": "",
+            "id": null,
+            "class": [
+                "navbar-toggler",
+                "navbar-toggler-right"
+            ]
+        },
+        {
+            "text": "Previous",
+            "id": "prev2",
+            "class": [
+                "page-link"
+            ]
+        },
+        {
+            "text": "Next",
+            "id": "next2",
+            "class": [
+                "page-link"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "text": "PRODUCT STORE",
+            "href": "index.html"
+        },
+        {
+            "text": "Home(current)",
+            "href": "index.html"
+        },
+        {
+            "text": "Contact",
+            "href": "#"
+        },
+        {
+            "text": "About us",
+            "href": "#"
+        },
+        {
+            "text": "Cart",
+            "href": "cart.html"
+        },
+        {
+            "text": "Log in",
+            "href": "#"
+        },
+        {
+            "text": "Log out",
+            "href": "#"
+        },
+        {
+            "text": "",
+            "href": "#"
+        },
+        {
+            "text": "Sign up",
+            "href": "#"
+        },
+        {
+            "text": "Previous",
+            "href": "#carouselExampleIndicators"
+        },
+        {
+            "text": "Next",
+            "href": "#carouselExampleIndicators"
+        },
+        {
+            "text": "CATEGORIES",
+            "href": ""
+        },
+        {
+            "text": "Phones",
+            "href": "#"
+        },
+        {
+            "text": "Laptops",
+            "href": "#"
+        },
+        {
+            "text": "Monitors",
+            "href": "#"
+        }
+    ],
+    "inputs": [
+        {
+            "type": "text",
+            "name": null,
+            "id": "recipient-email",
+            "placeholder": null
+        },
+        {
+            "type": "text",
+            "name": null,
+            "id": "recipient-name",
+            "placeholder": null
+        },
+        {
+            "type": "text",
+            "name": null,
+            "id": "sign-username",
+            "placeholder": null
+        },
+        {
+            "type": "password",
+            "name": null,
+            "id": "sign-password",
+            "placeholder": null
+        },
+        {
+            "type": "text",
+            "name": null,
+            "id": "loginusername",
+            "placeholder": null
+        },
+        {
+            "type": "password",
+            "name": null,
+            "id": "loginpassword",
+            "placeholder": null
+        }
+    ],
+    "forms": [
+        {
+            "action": null,
+            "method": null,
+            "inputs": []
+        },
+        {
+            "action": null,
+            "method": null,
+            "inputs": []
+        },
+        {
+            "action": null,
+            "method": null,
+            "inputs": []
+        },
+        {
+            "action": null,
+            "method": null,
+            "inputs": []
+        },
+        {
+            "action": null,
+            "method": null,
+            "inputs": []
+        }
+    ]
+}
